@@ -40,7 +40,3 @@ uvicorn main:app --reload
 ```
 
 Visit `http://127.0.0.1:8000/docs` for the interactive Swagger UI.
-
-## 🔮 Upcoming Features
-- ReactJS frontend
-- Authentication & authorization
